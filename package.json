@@ -1,7 +1,7 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "2048-game",
   "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
+  "description": "A web-based implementation of the classic 2048 puzzle game.",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
