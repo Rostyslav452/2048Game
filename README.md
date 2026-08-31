@@ -90,7 +90,7 @@ The main objective is to create the **2048 tile** while achieving the highest po
 
 ## Example
 
-- **DEMO LINK**: [Add your deployed project link here]
+- **DEMO LINK**: [https://rostyslav452.github.io/2048Game/](https://rostyslav452.github.io/2048Game/)
 
 ## Technologies Used
 
